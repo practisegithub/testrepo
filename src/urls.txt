@@ -1,0 +1,5 @@
+git@github.com:michael-t-dukes/hybris-code-demo.git
+git@github.com:michael-t-dukes/hybris-dockerfile.git
+git@github.com:michael-t-dukes/hybris-code-project.git
+git@github.com:michael-t-dukes/hybris-environment-cf-json.git
+git@github.com:michael-t-dukes/hybris-env-project.git
